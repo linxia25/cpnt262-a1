@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+
+body {
+  width: 50vw;
+  margin: auto;
+  background-color: white;
+  color: black;
+}
+
+/*Section*/
+section {
+  height: 30vh;
+  background-image: url("../images/hero.jpg");
+  background-size:cover;
+  background-position: center center;
+  background-repeat: no-repeat; 
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+  padding: 1vmax;
+}
+
+h1 {
+  text-align: center;
+}
+
+  
+button {
+  display: block;
+  margin: 30px auto 0px auto;
+  font-size: 2rem;
+}
+
+/*Figure*/
+
+figure {
+  margin: auto;
+  text-align: center;
+}
+
+figure img {
+  width: 100%;
+  height: 60vh;
+  object-fit: cover;
+  border: 1px solid orange;
+}
+
+figcaption {
+  height: 5ch;
+  background-color: rgba(255, 128, 0, 0.61);
+  text-align: center;
+  
+  font-size: 1.2rem;
+  font-family: rubik;
+  font-weight: bold;
+  line-height:5ch;
+}
+
+
+/*Footer*/
+footer {
+ margin-top: 2vh;
+ height: 4vh;
+ 
+ font-size: 1.5em;
+ font-family: Arial, Helvetica, sans-serif;
+ color: white;
+ background: gray;
+ text-align: center;
+ line-height: 4vh;
+}
