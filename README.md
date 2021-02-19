@@ -16,7 +16,7 @@ A website for online sales of high-end furniture!
 - [shelves.jpg](https://www.pexels.com/photo/interior-of-children-bedroom-with-wooden-furniture-and-toys-and-globe-placed-on-shelves-in-room-3932930/) by Tatiana Syrikova.
 - [wooden-table.jpg](https://www.pexels.com/photo/brown-wooden-table-with-chair-3097112/) by Nugroho Wahyu.
 - [hero.jpg](https://www.pexels.com/photo/beige-and-black-chair-in-front-of-white-desk-509922/) by Pixabay.
-- [Pure CSS toggle buttons]（https://codepen.io/mallendeo/pen/eLIiG）by Mauricio Allende.
+- [Pure CSS toggle buttons](https://codepen.io/mallendeo/pen/eLIiG)by Mauricio Allende.
 
 ## Links
 - GH repo: https://github.com/linxia25/cpnt262-a1.git
